@@ -33,24 +33,19 @@ To test locally you must copy bamazon.sql into mySQL and insert your own mySqL i
 Video link to see program in action:
 https://drive.google.com/file/d/17veOY3K0Ml7lKk0_h0bYSR2pjYIqLIHv/view?usp=sharing
 
-Screen Shot examples:
-#1 Showing a successful purchase.
-Welcome! ...you are now connected to the Bamazon Store!
-item_id  product_name                           department_name      price    stock_quantity
--------  -------------------------------------  -------------------  -------  --------------
-1        Instant Pot Duo60                      Appliances           99.95    0
-2        Where's Spot                           Books                5.29     175
-3        The Rolling Stones, Sticky Fingers CD  CD's & Vinyl         21.03    39
-4        The Beatles, Let it Be Vinyl           CD's & Vinyl         38.25    99
-5        Fender F9-100 Accoustic Guitar Bundle  Musical Instruments  149.99   68
-6        Sony XBR65X900X 65 inch l              Electronics          1999.99  1998
-7        2018 ASUS Newest Vivobook              Computers            399      42
-8        Adobe Photoshop Elements 2018          Software             69.89    0
-9        WTF Did You Say Party Game             Toys & Games         22.78    35
-10       Left Center Right Dice Game            Toys & Games         6.96     47
-11       Unique Heart Shaped Emerald Earrings   Jewelry              6996.87  0
-12       I am Pilgrim                           Books                25.49    2045
-13       Secret Outlast Deoderant               Personal Care        7.47     22
-14       Baily's Irish Creme-Lg.                Liquor               54.95    6002
 
-? What is the ID of the product that you would like to purchase?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

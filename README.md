@@ -28,7 +28,7 @@ npm packages
 mySQL / Sequel Pro
 Node.js
 
-To use type in terminal/bash node bamazonCustomer.js and follow the prompts.
+To test locally you must copy bamazon.sql into mySQL and insert your own mySqL into the bamazonCustomer.js file
 
 Video link to see program in action:
 https://drive.google.com/file/d/17veOY3K0Ml7lKk0_h0bYSR2pjYIqLIHv/view?usp=sharing
